@@ -1,0 +1,129 @@
+- group: friend # 分组标题
+  description:  # 分组描述
+  items:
+    - title: 悲催の记事账簿 # 名称
+      avatar: https://cos.nmsl.pet/logo2.webp  # 头像
+      url: https://nmsl.pet/  # 链接
+      screenshot: https://s2.loli.net/2022/01/20/GecEwnQuSvrhkOm.png # 截图
+      keywords: # 关键词
+      description: 我们仰望著同一片天空，却看著不同的地方  # 描述
+    - title: 李本伟的博客  # 名称
+      avatar: https://cdn.jsdelivr.net/gh/Li-Zi-stu/Pictures@1.6/%E5%A4%B4%E5%83%8F/%E5%A4%B4%E5%83%8F.png  # 头像
+      url: https://blog.libw.cc/  # 链接
+      screenshot: https://s2.loli.net/2022/01/20/IOBGojgxSE68d2v.png # 截图
+      keywords:   # 关键词
+      description: 科学，是一种信仰，更是一种力量！ # 描述
+    - title: Android # 名称
+      avatar: https://android99.me/img/avatar.png  # 头像
+      url: https://android99.me  # 链接
+      screenshot: # 截图
+      keywords: # 关键词
+      description: 矩阵  # 描述
+    - title: iMaeGoo’s Blog # 名称
+      avatar: https://www.imaegoo.com/images/avatar.jpg  # 头像
+      url: https://www.imaegoo.com/  # 链接
+      screenshot: # 截图
+      keywords: # 关键词
+      description: 虹墨空间站  # 描述
+    - title: 小不的窝 # 名称
+      avatar: https://i.loli.net/2021/02/08/4Pt2EqRAZgFK9IJ.jpg  # 头像
+      url: https://blog.donotknow.top/  # 链接
+      screenshot: # 截图
+      keywords: # 关键词
+      description: 分かりません  # 描述
+    - title: 小丁的博客 # 名称
+      avatar: https://xding.top/face.png  # 头像
+      url: https://xding.top/  # 链接
+      screenshot: # 截图
+      keywords: # 关键词
+      description: 就算鲜血洒满了怀抱.  # 描述
+    - title: freejishu的美丽世界 # 名称
+      avatar: https://cdn-p.freejishu.com/img/2022/01/19/gNxI.jpg  # 头像
+      url: https://www.freejishu.com  # 链接
+      screenshot: # 截图
+      keywords: # 关键词
+      description: A New World  # 描述
+    - title: MUKAPP # 名称
+      avatar: https://www.mukapp.top/pic/muk.png  # 头像
+      url: https://www.mukapp.top/  # 链接
+      screenshot: # 截图
+      keywords: # 关键词
+      description: MUK的小窝  # 描述
+    - title: 本当迷博客 # 名称
+      avatar: https://www.bdmcom.cn/usr/themes/handsome/assets/img/favicon.ico  # 头像
+      url: https://www.bdmcom.cn  # 链接
+      screenshot: # 截图
+      keywords: # 关键词
+      description: 人丑嘴不甜长得唠嗑还没钱的00后博客  # 描述
+    - title: yuaneuro的小站 # 名称
+      avatar: https://yuaneuro.cn/tx.jpg  # 头像
+      url: https://yuaneuro.cn  # 链接
+      screenshot: # 截图
+      keywords: # 关键词
+      description: 记录学习的点滴  # 描述
+    - title: 柚苏のBlog # 名称
+      avatar: https://www.sumual.cn/avatar.jpeg # 头像
+      url: https://www.sumual.cn  # 链接
+      screenshot: # 截图
+      keywords: # 关键词
+      description: 柚苏  # 描述
+    - title: 布丁の基地 # 名称
+      avatar: http://www.gravatar.com/avatar/c0b4d00a9bd59c430bf76206899c2d3c?s=500&r=X&d= # 头像
+      url: https://blog.furryowo.top/  # 链接
+      screenshot: # 截图
+      keywords:  # 关键词
+      description: 一个有梦想的咸鱼  # 描述
+    - title: 风来自很远の地方 # 名称
+      avatar: http://thirdqq.qlogo.cn/g?b=qq&nk=630876811&s=100 # 头像
+      url: https://www.txmmp.cn/  # 链接
+      screenshot: # 截图
+      keywords:  # 关键词
+      description: 愿你今后所有的期望都不落空。  # 描述
+    - title: 鹏龙-道记-道锋潜鳞编年史 # 名称
+      avatar: https://b.4l2.cn/favicon.ico # 头像
+      url: https://b.4l2.cn/?link=blog.furrysp.top  # 链接
+      screenshot: # 截图
+      keywords:  # 关键词
+      description: 鹏龙-道记是一个专注于知识分享的网站  # 描述
+    - title: 摩尔の镇 | モル·町 # 名称
+      avatar: https://img.mole9630.top/blog-logo.png # 头像
+      url: https://www.mole9630.top  # 链接
+      screenshot: # 截图
+      keywords:  # 关键词
+      description: 一座奇妙的小孤岛.  # 描述
+    - title: 风来自很远の地方 # 名称
+      avatar: http://thirdqq.qlogo.cn/g?b=qq&nk=630876811&s=100 # 头像
+      url: https://www.txmmp.cn/  # 链接
+      screenshot: # 截图
+      keywords:  # 关键词
+      description: 愿你今后所有的期望都不落空。  # 描述
+    - title: 咕咕三原小窝 # 名称
+      avatar: https://akaik2233-1257232308.cos-website.ap-guangzhou.myqcloud.com/img/gugusanyuan.jpg?s=220&r=X&d=mm # 头像
+      url: https://咕咕三原.wang  # 链接
+      screenshot: # 截图
+      keywords:  # 关键词
+      description: 记录美好，赠与未来。  # 描述
+    - title: Wittoy's Blog # 名称
+      avatar: https://cdn.jsdelivr.net/gh/1rz/static/images/me.webp # 头像
+      url: https://blog.wittoy.com  # 链接
+      screenshot: # 截图
+      keywords:  # 关键词
+      description: 摸鱼天下第一  # 描述
+    - title: Likefr # 名称
+      avatar: https://i.loli.net/2019/08/14/78WABufdR5ogaXK.jpg # 头像
+      url: https://likefr.com  # 链接
+      screenshot: # 截图
+      keywords:  # 关键词
+      description: 尝尽人生百味,方知人间冷暖  # 描述
+    - title: Islauso の树洞 # 名称
+      avatar: https://cdn.jsdelivr.net/gh/xiao-lin52/cdn-assets/images/avatar.webp # 头像
+      url: https://www.azusemisa.top  # 链接
+      screenshot: # 截图
+      keywords:  # 关键词
+      description: 一只咸鱼肥宅，兼职学生党  # 描述
+    - title: Colsrch # 名称
+      avatar: https://cdn.jsdelivr.net/gh/Colsrch/images/Colsrch/avatar.jpg # 头像
+      url: https://colsrch.cn  # 链接
+      screenshot: # 截图
+      keywords:  # 关键词
+      description: 愿多年以后，我可以酌一杯清酒，烂醉如泥，梦中回到我们的曾经。  # 描述      
